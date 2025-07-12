@@ -1,0 +1,18 @@
+# Parcel does
+- Dev Build
+- Local Server
+- HMR = Hot Module Replacement
+- Caching
+- Uses File Watching Algorithm in C++
+- Image Optimisation
+- Minification of File
+- Bundles all the files
+- Compressing
+- Consistent Hashing to keep tracks
+- Code Splitting (?)
+- Differential Bundling (?) - supports older browsers
+- Diagnostics behind the scenes
+- Better Error view handling
+- gives a way to host on https
+- Tree Shaking - removes unused code for you
+- Diff bundle for prod and dev builds

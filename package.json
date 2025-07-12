@@ -2,7 +2,6 @@
   "name": "npmception",
   "version": "1.0.0",
   "description": "lets dive deeper into what npm actually is",
-  "main": "App.js",
   "scripts": {
     "test": "jest"
   },
@@ -16,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/rohiitgit/namaste-react/issues"
   },
-  "homepage": "https://github.com/rohiitgit/namaste-react#readme"
+  "homepage": "https://github.com/rohiitgit/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserslist": [
+    "Last 2 versions"
+  ]
 }
