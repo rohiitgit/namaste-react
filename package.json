@@ -1,0 +1,20 @@
+{
+  "name": "npmception",
+  "version": "1.0.0",
+  "description": "lets dive deeper into what npm actually is",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rohiitgit/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "rohiitgit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohiitgit/namaste-react/issues"
+  },
+  "homepage": "https://github.com/rohiitgit/namaste-react#readme"
+}
